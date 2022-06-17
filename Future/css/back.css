@@ -1,0 +1,42 @@
+.navi  {
+    background-color:  navy;
+    padding:4px 16px;
+    float:left;
+    width:auto;
+    border:none;
+    display:block;
+    outline:0;
+    position:absolute;
+    left:0;
+    top:0;
+    width: 100%;
+    overflow: hidden;
+}
+.button-navi {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.button-pages{
+    float: left;
+    border:none;
+    padding:2px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:inherit;
+    background-color:inherit;
+    cursor:pointer;
+    text-align: center;
+    white-space:nowrap;
+    color:#fff!important;
+}
+.button-logo-items:hover{color:#000!important;background-color:#fff!important}
+.wm:hover{color:#000!important;background-color:#fff!important
+}
+.button-pages:hover{
+    color:#000!important;background-color:#fff!important
+}
+.button-navi-icons{
+}
